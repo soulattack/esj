@@ -1,0 +1,64 @@
+<div class="content boss_content sup_content">
+		<div class="project">
+			<div class="pro_con clearfix">
+				<div class="pro_con1">	
+					<div class="procon_bg procon1_bg">
+						<p><b>快捷供货：</b>已有商品模板，简单填写货品信息后即可开始供货<br><b>供货管理：</b>可审核货源对接申请；可以随时更改客户对接状态</p>
+					</div>
+				</div>
+				<div class="pro_con2">		
+					<div class="procon_bg procon2_bg"> 
+						<p><b>库存管理：</b>支持线上库存修改和设置，防止超卖现象发生<br><b>库存预警：</b>设置后，商品库存到达预警值后即会发出预警，智能方便</p>
+					</div>
+				</div>
+				<div class="pro_con3">	
+					<div class="procon_bg procon3_bg"> 
+						<p><b>价格设置：</b>支持分个人或级别的价格设置<br><b>价格修改：</b>修改后即生效，无需单独制作报价单</p>
+					</div>
+				</div>
+				<div class="pro_con4">	
+					<div class="procon_bg procon4_bg"> 
+						<p><b>订单管理：</b>在线订单审核与管理，灵活方便<br><b>订单仲裁：</b>对投诉订单进行仲裁处理，保护用户权益</p>
+					</div>
+				</div>
+				<div class="pro_con5">	
+					<div class="procon_bg procon5_bg"> 
+						<p><b>财务：</b>在线财务操作，便捷安全；财务流水流程，方便跟踪<br><b>统计：</b>供货订单等相关数据统计，方便监控和调整</p>
+					</div>
+				</div>
+				<div class="pro_con6">	
+					<div class="procon_bg procon6_bg"> 
+						<p><b>接口供货：</b>为有自主平台且有能力开发接口的供货商提供服务<br><b>工具下载：</b>各种虚拟产品的挂机软件可供下载</p>
+					</div>
+				</div>
+				<div class="pro_con7">	
+					<div class="procon_bg procon7_bg"> 
+						<p><b>物流跟踪：</b>在线物流状态跟踪<br><b>实物售后服务：</b>实物维修处理<br><b>开放接口：</b>与传统ERP无缝对接</p>
+					</div>
+				</div>
+			</div>
+			<!-- pro_con -->
+<div class="block pushB">	
+	<div class="ghlc">
+		<div class="ghlc_title"><h4><a class="right" href="http://www.17sup.com/register/index" target="_blank">开始供货</a><i>&nbsp;</i><span>供货流程</span></h4></div>
+		<div class="ghlc_con"></div>
+	</div>	
+</div>
+			<div class="block">
+				<div class="pro_phone">
+					<div class="pro_phone_title">
+						<h4><i>&nbsp;</i><span>SUP供货咨询</span></h4>
+					</div>
+					<div class="pro_phone_con">
+						<ul class="clearfix">
+							<li>联系人：陈小姐<a href="tencent://message/?uin=2355798806&amp;Site=有事Q我&amp;Menu=yes"><img style="border:0px;vertical-align:middle;" src="http://pic.ofcard.com/themes/ofpay/images/chat.png" alt=""></a></li>
+							<li>联系人：桑小姐<a href="tencent://message/?uin=2355617863&amp;Site=有事Q我&amp;Menu=yes"><img style="border:0px;vertical-align:middle;" src="http://pic.ofcard.com/themes/ofpay/images/chat.png" alt=""></a></li>
+							<li class="last hide">联系人：<a href="tencent://message/?uin=&amp;Site=有事Q我&amp;Menu=yes"><img style="border:0px;vertical-align:middle;" src="http://pic.ofcard.com/themes/ofpay/images/chat.png" alt=""></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- project -->
+</div> 
+ 
